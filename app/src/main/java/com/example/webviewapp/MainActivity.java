@@ -11,7 +11,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends Activity {
     private WebView webView;
-    private final String WEBSITE_URL = "https://example.com"; // 改成你的网站链接
+    private final String WEBSITE_URL = "https://beeg.com/"; // 改成你的网站链接
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
